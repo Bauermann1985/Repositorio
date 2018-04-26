@@ -9,11 +9,11 @@ uses
 
 type
 
-  { TForm1 }
+  { TfPrincipal }
 
-  TForm1 = class(TForm)
-    Button1: TButton;
-    procedure Button1Click(Sender: TObject);
+  TfPrincipal = class(TForm)
+    btMensagem: TButton;
+    procedure btMensagemClick(Sender: TObject);
   private
 
   public
@@ -21,17 +21,18 @@ type
   end;
 
 var
-  Form1: TForm1;
+  fPrincipal: TfPrincipal;
 
 implementation
 
 {$R *.lfm}
 
-{ TForm1 }
+{ TfPrincipal }
 
-procedure TForm1.Button1Click(Sender: TObject);
+procedure TfPrincipal.btMensagemClick(Sender: TObject);
 begin
-  ShowMessage('Meu Primeiro Programa!');
+  ShowMessage('Meu Primeiro Programa!' + #13 + #13 +
+  InputBox('Nome', 'Digite seu nome:', ''));
 end;
 
 end.
