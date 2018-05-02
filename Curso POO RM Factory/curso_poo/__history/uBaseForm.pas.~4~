@@ -1,0 +1,41 @@
+unit uBaseForm;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls;
+
+type
+  TFrmBaseForm = class(TForm)
+    tFadeIn: TTimer;
+    tFadeOut: TTimer;
+    procedure tFadeInTimer(Sender: TObject);
+    procedure tFadeOutTimer(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmBaseForm: TFrmBaseForm;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFrmBaseForm.tFadeInTimer(Sender: TObject);
+begin
+  AlphaBlendValue:= AlphaBlendValue + 15;
+  tFadeIn.Enabled:= not (AlphaBlendValue = 255)
+end;
+
+procedure TFrmBaseForm.tFadeOutTimer(Sender: TObject);
+begin
+  AlphaBlendValue:= AlphaBlendValue - 15;
+  if AlphaBlendValue = 0 then
+  Close;
+end;
+
+end.

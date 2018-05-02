@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/20 14:22:28.000.621,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/28 23:53:52.000.096,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/11 22:41:59.000.008,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/17 21:27:34.000.226,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/17 23:20:11.000.422,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/07 23:03:54.000.201,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/28 22:10:13.000.874,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/28 22:10:46.000.304,C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\uPrincipal.dfm</Transaction>
+    <Transaction>2018/04/28 22:10:46.000.304,C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\uPrincipal.pas</Transaction>
+    <Transaction>2018/04/28 22:11:02.000.932,C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\curso_poo_praicando_01.dproj</Transaction>
+    <Transaction>2018/04/28 22:11:11.000.393,=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\Unit2.pas</Transaction>
+    <Transaction>2018/04/28 22:11:21.000.026,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\Unit2.dfm=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\uBaseForm.dfm</Transaction>
+    <Transaction>2018/04/28 22:11:21.000.026,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\Unit2.pas=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_01\uBaseForm.pas</Transaction>
+  </Transactions>
+</BorlandProject>

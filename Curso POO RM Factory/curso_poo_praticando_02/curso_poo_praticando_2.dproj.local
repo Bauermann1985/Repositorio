@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/20 14:22:28.000.621,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/28 23:53:52.000.096,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/11 22:41:59.000.008,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/17 21:27:34.000.226,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/17 23:20:11.000.422,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/07 23:03:54.000.201,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/01 22:45:11.878,=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/01 22:45:34.322,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\uPrincipal.pas=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/01 22:45:34.322,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\uPrincipal.dfm=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/05/01 22:46:25.852,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\curso_poo_praticando_2.dproj=C:\Users\rui-s\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/05/01 22:46:57.413,=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\Unit2.pas</Transaction>
+    <Transaction>2018/05/01 22:47:09.579,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\uBaseForm.pas=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\Unit2.pas</Transaction>
+    <Transaction>2018/05/01 22:47:09.579,D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\uBaseForm.dfm=D:\Git\Repositorio\Curso POO RM Factory\curso_poo_praticando_02\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

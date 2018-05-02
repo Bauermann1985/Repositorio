@@ -1,0 +1,26 @@
+unit uBaseForm;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls;
+
+type
+  TFrmBaseForm = class(TForm)
+    tFadeIn: TTimer;
+    tFadeOut: TTimer;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmBaseForm: TFrmBaseForm;
+
+implementation
+
+{$R *.dfm}
+
+end.
